@@ -32,3 +32,11 @@ As of writing this blog, here are some of the on going video projects:
 - Umbrel OS
 - OpenMediaVault Docker
 - Raspberry Pi 5 content.
+
+## Where Have You been?
+
+Hello y'all, thank you so much for watching my content, i know many of you are wondering WFT have you been? the reality is that I've been sidetracked with work and life in general. I've been feeling stressed, and whenever i have free time, i prioritice spending time with family and neglet my youtube channel.
+
+Recently, i went deep into my throughts, and realized that I love making youtube videos, from now on i will make that additional effort to create content. I will not be holding myself to a strick release schedule, but i have made the commitment to spend 1 hour daily on content related activities, such as creating this website, exploring technologies, or creating notes to use for the videos.
+
+I hope to see y'all soon!
