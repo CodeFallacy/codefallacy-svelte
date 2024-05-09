@@ -1,4 +1,4 @@
-# SvelteKit Static Blog Template
+# CodeFallacy Blog 
 
 A lightweight and customizable template for blogs and portfolio websites, built with SvelteKit.
 
